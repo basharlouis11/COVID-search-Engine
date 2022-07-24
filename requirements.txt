@@ -1,0 +1,8 @@
+auto_mix_prep==0.2.0
+joblib==1.1.0
+keras==2.9.0
+livelossplot==0.5.5
+matplotlib==3.5.2
+numpy==1.22.3
+opencv_python==4.5.5.64
+scikit_learn==1.1.1
